@@ -1,0 +1,9 @@
+=== KPIs ===
+total_revenue: 18964351.44
+total_orders: 129921
+total_customers: 8999
+avg_basket: 145.96833029302422
+last_month_revenue: 884641.54
+mom_growth: 0.16316977833938764
+daily_series_points: 731
+monthly_series_points: 24
