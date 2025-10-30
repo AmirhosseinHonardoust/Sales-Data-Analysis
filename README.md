@@ -66,13 +66,13 @@ The script produces KPIs and charts automatically.
 ## Sample Results
 
 ### Daily Revenue
-<img width="1760" height="640" alt="fig_daily_revenue" src="https://github.com/user-attachments/assets/dd12dbb5-fdc0-4b4c-bf28-54470c163487" />
+<img width="1760" height="640" alt="fig_daily_revenue" src="https://github.com/user-attachments/assets/c8445fcf-103e-4f6a-9d27-f9fb72d06642" />
 
 ### Monthly Revenue
-<img width="1760" height="640" alt="fig_monthly_revenue" src="https://github.com/user-attachments/assets/a14670fe-bb6f-4f32-8254-9cf6aa48cb6d" />
+<img width="1760" height="640" alt="fig_monthly_revenue" src="https://github.com/user-attachments/assets/6f6014c5-c5b3-4aa9-bc73-5fa11aa69122" />
 
 ### Revenue by Category
-<img width="1280" height="640" alt="fig_category_revenue" src="https://github.com/user-attachments/assets/15b00951-52a7-4067-9754-5d7ee7fd9680" />
+<img width="1280" height="640" alt="fig_category_revenue" src="https://github.com/user-attachments/assets/7e49fd3f-7108-449a-b047-988c52dff030" />
 
 ---
 
